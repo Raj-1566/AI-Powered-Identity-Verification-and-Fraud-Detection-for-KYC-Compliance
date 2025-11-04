@@ -1,0 +1,2 @@
+# -AI-Powered-Identity-Verification-and-Fraud-Detection-for-KYC-Compliance
+This project presents an AI-driven solution for automating KYC (Know Your Customer) and AML (Anti-Money Laundering) verification in the Banking, Financial Services, and Insurance (BFSI) domain. It focuses on intelligent identity validation, address verification, and fraud detection using advanced machine-learning and graph-based techniques.
